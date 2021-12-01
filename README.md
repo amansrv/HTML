@@ -1,6 +1,6 @@
 # "This is my HTML repository":
 
-> ## <i>In this repository i have tried to explain *what is Html* by the help of **code** with my **personl Notes.**</i> 
+> ## <i>In this repository i have tried to explain *what is Html* by the help of **code** with my **personal Notes.**</i> 
 
 * CH-0 : Introduction of HTML 
 * CH-1 : Creating our first website
